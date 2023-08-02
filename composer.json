@@ -1,5 +1,5 @@
 {
-  "name": "soberwp/controller",
+  "name": "kokiddp/controller",
   "type": "package",
   "license": "MIT",
   "description": "WordPress package to enable a basic controller when using Blade with Sage 9",
@@ -9,6 +9,11 @@
       "name": "Darren Jacoby",
       "email": "darren@jacoby.co.za",
       "homepage": "https://github.com/darrenjacoby"
+    },
+    {
+      "name": "Gabriele Coquillard",
+      "email": "gabriele@elk-lab.com",
+      "homepage": "https://github.com/kokiddp"
     }
   ],
   "keywords": [
